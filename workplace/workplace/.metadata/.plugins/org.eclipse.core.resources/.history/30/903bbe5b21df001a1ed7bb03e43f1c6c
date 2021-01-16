@@ -1,0 +1,14 @@
+package xunlian3;
+
+public class o40 {
+	public static void main(String[] args) {
+		
+	}
+	
+	public int[] getLeastNumbers(int[] arr, int k) {
+		
+		
+		
+		return arr;
+    }
+}

@@ -1,0 +1,39 @@
+package xunlian3;
+
+public class o28 {
+	public static void main(String[] args) {
+
+	}
+
+	public boolean isSymmetric(TreeNode root) {
+
+		if (root == null)
+			return true;
+
+		return isSym(root.left, root.right);
+	}
+
+	public boolean isSym(TreeNode ltree, TreeNode rtree) {
+
+		if (ltree == null && rtree == null) {
+			return true;
+		} else if (ltree == null && rtree != null) {
+			return false;
+		} else if (lltree != null && rtree == null) {
+			return false;
+		} else {
+			if (ltree.val != rtree.val) {
+				return false;
+			}
+			if (!isSym(ltree.left, rtree.right)) {
+				return false;
+			}
+			if (!isSym(ltree.right, rtree.left)) {
+				return false;
+			}
+			return true;// œ‡µ»∑µªÿtrue
+		}
+
+		return false;
+	}
+}

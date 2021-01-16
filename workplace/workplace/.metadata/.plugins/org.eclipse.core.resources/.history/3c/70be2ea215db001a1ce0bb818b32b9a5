@@ -1,0 +1,18 @@
+package xunlian3;
+
+public class o28 {
+	public static void main(String[] args) {
+
+	}
+
+	public boolean isSymmetric(TreeNode root) {
+		
+		if (root==null) return true;
+		
+		return false;
+	}
+	
+	public boolean 	isSym(TreeNode ltree,TreeNode rtree) {
+		
+	}
+}

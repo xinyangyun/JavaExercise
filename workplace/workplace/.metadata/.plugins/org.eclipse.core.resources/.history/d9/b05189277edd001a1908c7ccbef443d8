@@ -1,0 +1,32 @@
+package xunlian3;
+
+import java.util.HashMap;
+
+public class o35 {
+	public static void main(String[] args) {
+
+	}
+
+	public Node copyRandomList(Node head) {
+		
+		HashMap<Node,Node> map = new HashMap<>();
+		
+		Node cur = head;
+		
+		while (cur)
+		
+		return head;
+	}
+}
+
+class Node {
+	int val;
+	Node next;
+	Node random;
+
+	public Node(int val) {
+		this.val = val;
+		this.next = null;
+		this.random = null;
+	}
+}

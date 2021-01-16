@@ -1,0 +1,19 @@
+package xunlian3;
+
+public class o32 {
+	public static void main(String[] args) {
+		
+	}
+	
+	public int[] levelOrder(TreeNode root) {
+		int[] arr = null;
+		
+		
+		
+		
+		return null;
+    }
+	
+	
+	
+}

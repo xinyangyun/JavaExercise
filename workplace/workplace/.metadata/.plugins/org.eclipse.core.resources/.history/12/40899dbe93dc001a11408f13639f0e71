@@ -1,0 +1,20 @@
+package xunlian3;
+
+import java.util.ArrayList;
+
+public class o32 {
+	public static void main(String[] args) {
+		
+	}
+	
+	public int[] levelOrder(TreeNode root) {
+		ArrayList<Object> arrayList = new ArrayList<>();
+		
+		
+		
+		
+		return null;
+    }
+	
+	
+}

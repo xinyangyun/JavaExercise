@@ -1,0 +1,30 @@
+package xunlian3;
+
+public class o35 {
+	public static void main(String[] args) {
+
+	}
+
+	public Node copyRandomList(Node head) {
+		
+		Node newNode = new Node(0);
+		
+		while (head!=null) {
+			
+		}
+		
+		return head;
+	}
+}
+
+class Node {
+	int val;
+	Node next;
+	Node random;
+
+	public Node(int val) {
+		this.val = val;
+		this.next = null;
+		this.random = null;
+	}
+}

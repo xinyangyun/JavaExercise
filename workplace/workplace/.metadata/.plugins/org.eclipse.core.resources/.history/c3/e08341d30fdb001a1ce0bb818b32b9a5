@@ -1,0 +1,28 @@
+package xunlian3;
+
+public class o27 {
+	public static void main(String[] args) {
+		
+		TreeNode tree1 = new TreeNode(4);
+		
+		
+	}
+	
+	public TreeNode mirrorTree(TreeNode root) {
+		
+		
+		
+		return root;
+    }
+
+}
+
+class TreeNode {
+	int val;
+	TreeNode left;
+	TreeNode right;
+
+	TreeNode(int x) {
+		val = x;
+	}
+}

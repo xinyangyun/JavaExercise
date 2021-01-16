@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;saunfa&apos; to &apos;algorithm&apos;&#x0D;&#x0A;- Original project: &apos;likou&apos;&#x0D;&#x0A;- Original element: &apos;likou/src/saunfa&apos;&#x0D;&#x0A;- Renamed element: &apos;likou/src/algorithm&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;saunfa&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;saunfa" name="algorithm" qualified="false" references="true" stamp="1593318973190" textual="false" version="1.0"/>
+</session>

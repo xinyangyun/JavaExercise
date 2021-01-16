@@ -1,0 +1,22 @@
+package xunlian3;
+
+import java.util.Iterator;
+import java.util.Stack;
+
+public class o31 {
+	public static void main(String[] args) {
+		
+	}
+	
+	public boolean validateStackSequences(int[] pushed, int[] popped) {
+		
+		Stack<Object> stack = new Stack<>();
+		
+		for (int num : pushed) {
+			
+		}
+		
+		return false;
+    }
+}
+
